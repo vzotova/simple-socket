@@ -10,4 +10,5 @@ Will be built server.jar and client.jar in target folders in server and client p
 Also will be copied all dependencies into target/lib folder in both projects.
 
 For starting server run command "java -jar server.jar [<port> [<max_sessions>]]" in server/target folder.
-For starting server run command "java -jar client.jar [<port>]" in client/target folder.
+
+For starting client run command "java -jar client.jar [<port>]" in client/target folder.
