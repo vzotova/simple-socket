@@ -41,7 +41,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>ru.infotecs.test.Server</mainClass>
+							<mainClass>ru.szotov.socket.Server</mainClass>
 						</manifest>
 					</archive>
 				</configuration>

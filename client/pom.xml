@@ -37,7 +37,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>ru.infotecs.test.Client</mainClass>
+							<mainClass>ru.szotov.geo.Client</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
